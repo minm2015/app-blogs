@@ -1,5 +1,4 @@
-# apps-admin
-
+# app-blogs
 > A Vue.js project
 
 ## Build Setup
